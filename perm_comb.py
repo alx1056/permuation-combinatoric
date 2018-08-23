@@ -20,3 +20,6 @@ else:
     n = input("what is your n? ")
     r = input("What is your r? ")
     print("Your combinatoric is: " + str(combinatoric(int(n), int(r))))
+    
+    
+    
